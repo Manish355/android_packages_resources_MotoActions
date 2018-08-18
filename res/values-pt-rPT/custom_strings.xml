@@ -68,6 +68,8 @@
   <string name="fingerprint_swipe_left_dlg_title">Selecione ação para deslize para a esquerda</string>
   <string name="fingerprint_swipe_right_title">Deslizar para a direita</string>
   <string name="fingerprint_swipe_right_dlg_title">Selecione ação para deslize para a direita</string>
+  <string name="fingerprint_sleep_title">Adormecer com impressão digital</string>
+  <string name="fingerprint_sleep_summary">Pressionar o sensor de impressões digitais para desligar o ecrã</string>
   <!-- Fingerprint gestures screen off -->
   <string name="fingerprint_gestures_screenoff_title">Gestos de Impressão Digital quando o ecrã está desligado</string>
   <string name="fingerprint_gestures_screenoff_summary">Use gestos de impressão digital com ecrã desligado.\n\nDesbloqueio com impressão digital deve ser ativado para usar esse recurso.</string>

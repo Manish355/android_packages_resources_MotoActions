@@ -68,6 +68,8 @@
   <string name="fingerprint_swipe_left_dlg_title">Selecione a ação para deslizar para a esquerda</string>
   <string name="fingerprint_swipe_right_title">Deslizar para a direita</string>
   <string name="fingerprint_swipe_right_dlg_title">Selecione a ação para deslizar para a direita</string>
+  <string name="fingerprint_sleep_title">Suspender com impressão digital</string>
+  <string name="fingerprint_sleep_summary">Pressione o sensor de impressão digital para desligar a tela</string>
   <!-- Fingerprint gestures screen off -->
   <string name="fingerprint_gestures_screenoff_title">Habilitar com a tela desligada</string>
   <string name="fingerprint_gestures_screenoff_summary">Habilitar os gestos no sensor biométrico quando a tela estiver desligada.\n\nO desbloqueio por impressão digital deve estar desativado para usar esse recurso.</string>

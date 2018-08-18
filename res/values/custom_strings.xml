@@ -80,6 +80,8 @@
     <string name="fingerprint_swipe_left_dlg_title">Select action for swipe left</string>
     <string name="fingerprint_swipe_right_title">Swipe right</string>
     <string name="fingerprint_swipe_right_dlg_title">Select action for swipe right</string>
+    <string name="fingerprint_sleep_title">Fingerprint sleep</string>
+    <string name="fingerprint_sleep_summary">Press the fingerprint sensor to turn off the screen</string>
 
     <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
